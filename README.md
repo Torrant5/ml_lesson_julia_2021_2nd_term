@@ -1,0 +1,2 @@
+# ml_lesson_julia_2021_2nd_term
+機械学習講義のJulia実装
